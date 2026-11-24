@@ -9,7 +9,7 @@
 | [osori-messenger](https://github.com/BrandonLotusKim/osori-messenger) ([소개](https://brndnkm-osori.pages.dev)) | 30명 규모 사무실에서 쓰는 Windows 메신저. 대화, 읽음 표시, 파일 전송, 쪽지, 조직도 | Kotlin, Ktor, C# WPF, PostgreSQL, Protobuf |
 | [MoGugeo](https://github.com/BrandonLotusKim/MoGugeo) ([소개](https://brndnkm-mogugeo.pages.dev)) | 정한 시각에 번역 문제를 띄우는 Windows 영어 학습 앱. Gemini API로 채점 | TypeScript, Electron |
 | [spring-boot-auth-api](https://github.com/BrandonLotusKim/spring-boot-auth-api) | 3인 팀 프로젝트에서 팀원 교육용으로 만든 회원가입·로그인(JWT) API 서버 | Java 17, Spring Boot, JPA, Spring Security |
-| [IPE_Task](https://github.com/BrandonLotusKim/IPE_Task) | 정보처리기사 두음 암기 퀴즈. 이 퀴즈로 공부해 합격 | HTML, CSS, JavaScript |
+| [오소리 정처기](https://brndnkm-badger.pages.dev/IPE) | 정보처리기사 두음 암기와 문제 풀이 웹사이트. 이 사이트로 공부해 합격 | HTML, CSS, JavaScript |
 
 오소리 메신저(2026.04~)와 모국어(2026.03~)는 비공개 저장소에서 개발하다가, 공개하면서 이력을 정리해 새로 올렸습니다. 공개 저장소의 커밋 날짜는 공개한 시점부터입니다.
 
